@@ -1,0 +1,81 @@
+body{
+    background-image: linear-gradient(#FCE77D, #F96167);
+}
+
+p{
+    color:#bb0a1e;
+    font-size: 40px;
+    font-family: 'Creepster', cursive;
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bottom{
+    color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: serif;
+    font-size: 150%;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color:navy;
+}
+.first,.second{
+    background-color: white;
+    border-radius: 40px;
+    line-height: 3;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background-image: linear-gradient(to top, purple, rgb(53, 53, 246));
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9,.white10{
+    color: white;
+    font-size: larger;
+}
+span{
+    color: red;
+}
+.google_lens{
+    color: black;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+ 
+h4{
+    color: white;
+    font-weight: bold;
+}
+
+h5{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    color: black;
+}
